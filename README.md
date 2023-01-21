@@ -154,11 +154,11 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 ## OUTPUT:
-![OUTPUT](./calc.png)
+
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./valid.png)
 
 ## RESULT:
 The program for designing a simple calculator using Javascript is executed successfully.
