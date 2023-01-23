@@ -156,9 +156,11 @@ h1{
 
 
 ## OUTPUT:
+![calculator](https://user-images.githubusercontent.com/119390134/213957070-69a3991b-4080-4c6b-87b1-b4069be993da.png)
 
 
 ## HTML VALIDATOR:
+![valiii](https://user-images.githubusercontent.com/119390134/213957052-384aef50-7f67-4787-97de-fa3f950f007a.png)
 
 ## RESULT:
 The program for designing a simple calculator using Javascript is executed successfully.
