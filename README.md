@@ -25,9 +25,6 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
-calc.html
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -155,12 +152,15 @@ h1{
 }
 
 
+
 ## OUTPUT:
-![calculator](https://user-images.githubusercontent.com/119390134/213957070-69a3991b-4080-4c6b-87b1-b4069be993da.png)
+![WhatsApp Image 2023-01-26 at 12 03 08 PM](https://user-images.githubusercontent.com/119390134/214773335-f27a06dc-127a-4704-acec-dbcb1aea148d.jpeg)
+
 
 
 ## HTML VALIDATOR:
-![valiii](https://user-images.githubusercontent.com/119390134/213957052-384aef50-7f67-4787-97de-fa3f950f007a.png)
+![WhatsApp Image 2023-01-26 at 12 03 43 PM](https://user-images.githubusercontent.com/119390134/214773356-cf281753-c4b2-481b-b1c5-557e2278fdf3.jpeg)
+
 
 ## RESULT:
 The program for designing a simple calculator using Javascript is executed successfully.
