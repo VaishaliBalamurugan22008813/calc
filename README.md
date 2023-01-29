@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -151,7 +152,7 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
-
+```
 
 ## OUTPUT:
 ![WhatsApp Image 2023-01-26 at 12 03 08 PM](https://user-images.githubusercontent.com/119390134/214773335-f27a06dc-127a-4704-acec-dbcb1aea148d.jpeg)
